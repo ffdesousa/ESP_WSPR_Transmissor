@@ -169,7 +169,7 @@ Este firmware é fruto de um trabalho colaborativo e integra as contribuições 
   *Contribuições na configuração do temporizador e ajustes finais do código.*
 
 - **Fernando Fernandes, PU9FSO:**  
-  *Novas modificações e melhorias na interface web, controle do modo de calibração e gerenciamento de requisições AJAX.*  
+  * Modo configurador access point wifi, interface web para configuração e calibrage, sincronização de tempo via NTP não bloqueante, persistência com EEPROM, modo de calibração (calibrador de MatePU5ALE)*  
   Email: pu9fso@gmail.com  
   Perfil QRZ: [https://www.qrz.com/db/Pu9fso](https://www.qrz.com/db/Pu9fso)
 
