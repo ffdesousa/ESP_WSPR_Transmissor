@@ -36,7 +36,7 @@
 
 //Modificado para confi
 
-//Modificações e interface Web para configuração e calibrage, sincronização de tempo via NTP não bloqueante, persistência com EEPROM, modo de calibração (calibrador de MatePU5ALE). Fernando Fernandes, PU9FSO Email: pu9fso@gmail.com QRZ: https://www.qrz.com/db/Pu9fso
+////Modificações e interface Web para configuração e calibrage, sincronização de tempo via NTP não bloqueante, persistência com EEPROM, modo de calibração (calibrador de MatePU5ALE). Fernando Fernandes, PU9FSO Email: pu9fso@gmail.com QRZ: https://www.qrz.com/db/Pu9fso. Fernando Fernandes, PU9FSO Email: pu9fso@gmail.com QRZ: https://www.qrz.com/db/Pu9fso
 
 //Código original baseado em Feld Hell beacon para Arduino por Mark
 //Vandewettering K6HX, adaptado para o Si5351A por Robert
